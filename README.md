@@ -3,12 +3,12 @@ Test for CI/CD on python
 
 ### CI/CD - GitHub Actions
 
-###Запуск программы:
+### Запуск программы:
 ```buildoutcfg
 ./main.py
 ```
 
-###Запуск тестов:
+### Запуск тестов:
 ```buildoutcfg
 ./tests.py
 ```
